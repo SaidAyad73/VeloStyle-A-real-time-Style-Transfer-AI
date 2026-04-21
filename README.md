@@ -1,8 +1,8 @@
-# CLIPStyler - Fast Neural Style Transfer with CLIP
+# VeloStyle - Fast Neural Style Transfer with CLIP
 
 ## Project Overview
 
-CLIPStyler is a neural style transfer application that uses OpenAI's CLIP model combined with advanced loss functions to rapidly apply artistic styles to images using natural language descriptions. The project leverages directional CLIP loss, content preservation loss, total variation regularization, and patch-level consistency to achieve high-quality style transfer results.
+VeloStyle is a neural style transfer application that uses OpenAI's CLIP model combined with advanced loss functions to rapidly apply artistic styles to images using natural language descriptions. The project leverages directional CLIP loss, content preservation loss, total variation regularization, and patch-level consistency to achieve high-quality style transfer results.
 
 **Key Features:**
 - Fast style transfer training using CLIP embeddings
